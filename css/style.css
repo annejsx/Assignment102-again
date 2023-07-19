@@ -64,14 +64,11 @@ background: rgba(11, 2, 35, 0.10);
 
 .banner-container{
 
-  display: flex;
-  width: 1400px;
+display: flex;
+  width: 90%;
+  max-width: 1400px;
   justify-content: space-between;
   text-align: center;
-  margin-right: 50px;
-  margin-left: 50px;
-margin-top: 50px;
- 
 }
 
 .banner-text {
