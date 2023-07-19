@@ -1,0 +1,192 @@
+
+@media screen and (min-width:576px) and (max-width: 992px){
+
+  .nav-container {
+
+    flex-direction: column;
+    width:auto;
+    margin: auto;
+    
+    }
+    
+    
+    .nav-left{
+    flex-direction: column;}
+
+    
+     .nav-right{
+
+      flex-direction: column;
+
+margin: auto;
+    
+    
+    } 
+
+    /* nav response ends here  */
+
+
+    .banner-container{
+      flex-direction: column;
+      margin: auto;
+     
+    }
+    .banner-text h1{
+      font-size: 10px;
+    }
+    .banner-tex{
+      width: 100%;
+    }
+    .banner-img{
+
+      width: 100%;}
+
+
+      .online-game-image {
+        flex-direction: column;
+      }
+
+      .play-instant-container{
+
+        flex-direction: column ;
+       
+        }
+        
+         .play-instant-text{
+          margin-top: 40px;
+         }
+
+
+         .nine-icon{
+         
+          grid-template-columns: repeat(2 ,1fr)
+        }
+  
+
+    }
+
+    
+  
+
+
+
+
+     
+      
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:576px){
+
+  .nav-container {
+
+    flex-direction: column;
+    width:auto;
+    
+    }
+    
+    
+    .nav-left{
+    flex-direction: column;}
+
+    
+     .nav-right{
+
+      flex-direction: column;
+
+margin: auto;
+    
+    
+    } 
+
+
+    /* nav response ends here  */
+
+
+    .banner-container{
+      flex-direction: column;
+      margin: auto;
+     
+    }
+    .banner-text h1{
+      font-size: 10px;
+    }
+     .banner-tex{
+      width: 100%;
+    }
+
+    .banner-img{
+      width: 100%;
+    }
+     
+        /* banner response ends here  */
+    .online-game-image {
+      flex-direction: column;
+     
+    }
+    .online-game-image img {
+      width: 20%;}
+
+ /* online respose ends here  */
+
+  /* play instantly starts here   */
+
+ .play-instant-container{
+
+ flex-direction: column ;
+
+ }
+ 
+  .play-instant-text{
+   margin-top: 40px;
+ 
+ 
+ }
+ .nine-icon{
+         
+  grid-template-columns: repeat(2 ,1fr)
+}
+
+
+  }
+
+
+
+
